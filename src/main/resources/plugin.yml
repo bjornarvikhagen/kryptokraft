@@ -1,0 +1,4 @@
+name: CryptoPlugin
+version: '${project.version}'
+main: com.cryptoplugin.CryptoSignPlugin
+api-version: 1.19
